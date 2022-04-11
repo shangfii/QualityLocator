@@ -1,4 +1,6 @@
-# IPGeolocator
+## [Quality of life locator](https://shangfii.github.io/QualityLocator/IPGeolocator-develop%202/index.html)
+
+[Click here](https://shangfii.github.io/QualityLocator/IPGeolocator-develop%202/index.html) to learn about the quality of life at major urban areas
 
 ## IPGeolocator
 
